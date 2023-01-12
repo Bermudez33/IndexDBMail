@@ -1,1 +1,1 @@
-# IndexDBMail
+# Indexing mail data base
